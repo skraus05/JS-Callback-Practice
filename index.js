@@ -94,12 +94,6 @@ function moveWithArrowKeys(left, bottom, callback){
     let y = bottom;
 }
 
-
-
-
-
-
-
 move(newImage('assets/tree.png')).to(200, 450)
 move(newImage('assets/pillar.png')).to(350, 250)
 move(newImage('assets/pine-tree.png')).to(450, 350)
